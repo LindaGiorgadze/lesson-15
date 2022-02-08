@@ -1,0 +1,12 @@
+:root {
+    --blue: #1e90ff;
+    --white: #ffffff; 
+}
+
+.customContainer {
+    background-color: antiquewhite;
+}
+.customCol {
+    background-color: burlywood;
+    border: 1px solid var(--blue);
+}
